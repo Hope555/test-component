@@ -1,0 +1,1 @@
+import{p as t,b as e}from"./p-ef5eb0ae.js";(()=>{const e=import.meta.url,s={};return""!==e&&(s.resourcesUrl=new URL(".",e).href),t(s)})().then((t=>e([["p-a0e8b0d2",[[1,"my-component",{first:[1],middle:[1],last:[1]}],[1,"sas-button"]]]],t)));

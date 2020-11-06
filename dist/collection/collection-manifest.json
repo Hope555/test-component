@@ -1,0 +1,13 @@
+{
+  "entries": [
+    "./components/my-component/my-component.js",
+    "./components/sas-button/sas-button.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "2.2.0",
+    "typescriptVersion": "4.0.5"
+  },
+  "collections": [],
+  "bundles": []
+}
